@@ -1,1 +1,2 @@
 hello , welcome to git assignment
+git pull and push command are used.
